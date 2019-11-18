@@ -16,7 +16,7 @@ public static class GoogleAuthenticator
     /// </summary>
     public static void GetAuthCode()
     {
-        Application.OpenURL($"https://accounts.google.com/o/oauth2/v2/auth?client_id={ClientId}&redirect_uri=urn:ietf:wg:oauth:2.0:oob&response_type=code&scope=openid");
+        Application.OpenURL($"https://accounts.google.com/o/oauth2/v2/auth?client_id={ClientId}&redirect_uri=urn:ietf:wg:oauth:2.0:oob&response_type=code&scope=email");
     }
     
     /// <summary>

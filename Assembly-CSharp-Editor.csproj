@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{87846E3B-9780-D4EA-69FD-78E73D246F7F}</ProjectGuid>
+    <ProjectGuid>{6CFEAD57-490D-4E72-1A40-408CD91A9671}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -58,52 +58,52 @@
   <ItemGroup>
      <Compile Include="Assets\FullSerializer\Aot\Editor\fsAotConfigurationEditor.cs" />
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.Management">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Subsystem.Registration">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.XR.Management.Editor">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/home/nico/Unity/2019.3.0b7/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -301,7 +301,7 @@
  <HintPath>/home/nico/Unity/2019.3.0b7/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>/home/nico/unityprojects/Firebase Authentication with Google and Facebook/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>/home/nico/unityprojects/Firebase Authentication with Google/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/home/nico/Unity/2019.3.0b7/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -666,7 +666,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{CF1F4786-DD60-2134-DD8F-F353E3019AEC}</Project>
+      <Project>{8ABDA723-0041-E213-D0A5-81DCE10F7703}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
