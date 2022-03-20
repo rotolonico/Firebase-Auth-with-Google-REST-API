@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FullSerializer" t="Include">
+          <e p="Aot" t="Include">
+            <e p="Editor" t="Include">
+              <e p="fsAotConfigurationEditor.cs" t="Include" />
+            </e>
+            <e p="fsAotCompilationManager.cs" t="Include" />
+            <e p="fsAotConfiguration.cs" t="Include" />
+            <e p="fsAotVersionInfo.cs" t="Include" />
+            <e p="fsIAotConverter.cs" t="Include" />
+          </e>
+          <e p="Converters" t="Include">
+            <e p="fsArrayConverter.cs" t="Include" />
+            <e p="fsDateConverter.cs" t="Include" />
+            <e p="fsDictionaryConverter.cs" t="Include" />
+            <e p="fsEnumConverter.cs" t="Include" />
+            <e p="fsForwardConverter.cs" t="Include" />
+            <e p="fsGuidConverter.cs" t="Include" />
+            <e p="fsIEnumerableConverter.cs" t="Include" />
+            <e p="fsKeyValuePairConverter.cs" t="Include" />
+            <e p="fsNullableConverter.cs" t="Include" />
+            <e p="fsPrimitiveConverter.cs" t="Include" />
+            <e p="fsReflectedConverter.cs" t="Include" />
+            <e p="fsTypeConverter.cs" t="Include" />
+            <e p="fsWeakReferenceConverter.cs" t="Include" />
+            <e p="Unity" t="Include">
+              <e p="AnimationCurve_DirectConverter.cs" t="Include" />
+              <e p="Bounds_DirectConverter.cs" t="Include" />
+              <e p="Gradient_DirectConverter.cs" t="Include" />
+              <e p="GUIStyle_DirectConverter.cs" t="Include" />
+              <e p="GUIStyleState_DirectConverter.cs" t="Include" />
+              <e p="Keyframe_DirectConverter.cs" t="Include" />
+              <e p="LayerMask_DirectConverter.cs" t="Include" />
+              <e p="Rect_DirectConverter.cs" t="Include" />
+              <e p="RectOffset_DirectConverter.cs" t="Include" />
+              <e p="UnityEvent_Converter.cs" t="Include" />
+            </e>
+          </e>
+          <e p="fsBaseConverter.cs" t="Include" />
+          <e p="fsConfig.cs" t="Include" />
+          <e p="fsContext.cs" t="Include" />
+          <e p="fsConverter.cs" t="Include" />
+          <e p="fsConverterRegistrar.cs" t="Include" />
+          <e p="fsData.cs" t="Include" />
+          <e p="fsDirectConverter.cs" t="Include" />
+          <e p="fsExceptions.cs" t="Include" />
+          <e p="fsIgnoreAttribute.cs" t="Include" />
+          <e p="fsISerializationCallbacks.cs" t="Include" />
+          <e p="fsJsonParser.cs" t="Include" />
+          <e p="fsJsonPrinter.cs" t="Include" />
+          <e p="fsMemberSerialization.cs" t="Include" />
+          <e p="fsObjectAttribute.cs" t="Include" />
+          <e p="fsObjectProcessor.cs" t="Include" />
+          <e p="fsPropertyAttribute.cs" t="Include" />
+          <e p="fsResult.cs" t="Include" />
+          <e p="fsSerializer.cs" t="Include" />
+          <e p="Internal" t="Include">
+            <e p="fsCyclicReferenceManager.cs" t="Include" />
+            <e p="fsOption.cs" t="Include" />
+            <e p="fsPortableReflection.cs" t="Include" />
+            <e p="fsTypeExtensions.cs" t="Include" />
+            <e p="fsVersionedType.cs" t="Include" />
+            <e p="fsVersionManager.cs" t="Include" />
+          </e>
+          <e p="Reflection" t="Include">
+            <e p="fsMetaProperty.cs" t="Include" />
+            <e p="fsMetaType.cs" t="Include" />
+            <e p="fsReflectionUtility.cs" t="Include" />
+            <e p="fsTypeCache.cs" t="Include" />
+          </e>
+        </e>
+        <e p="RestClient" t="Include">
+          <e p="Packages" t="Include">
+            <e p="Proyecto26.RestClient" t="Include">
+              <e p="Helpers" t="Include">
+                <e p="Common.cs" t="Include" />
+                <e p="Extensions.cs" t="Include" />
+                <e p="HttpBase.cs" t="Include" />
+                <e p="JsonHelper.cs" t="Include" />
+                <e p="RequestException.cs" t="Include" />
+                <e p="RequestHelper.cs" t="Include" />
+                <e p="RequestHelperExtension.cs" t="Include" />
+                <e p="ResponseHelper.cs" t="Include" />
+                <e p="StaticCoroutine.cs" t="Include" />
+              </e>
+              <e p="RestClient.cs" t="Include" />
+              <e p="RestClientPromise.cs" t="Include" />
+            </e>
+            <e p="RSG.Promise" t="Include">
+              <e p="EnumerableExt.cs" t="Include" />
+              <e p="Exceptions" t="Include">
+                <e p="PromiseException.cs" t="Include" />
+                <e p="PromiseStateException.cs" t="Include" />
+              </e>
+              <e p="Promise.cs" t="Include" />
+              <e p="Promise_NonGeneric.cs" t="Include" />
+              <e p="PromiseHelpers.cs" t="Include" />
+              <e p="PromiseTimer.cs" t="Include" />
+              <e p="Tuple.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="FirebaseAuthHandler.cs" t="Include" />
+          <e p="GoogleAuthenticator.cs" t="Include" />
+          <e p="GoogleIdTokenResponse.cs" t="Include" />
+          <e p="HttpCodeListener.cs" t="Include" />
+          <e p="StringSerializationAPI.cs" t="Include" />
+          <e p="UIHandler.cs" t="Include" />
+        </e>
+        <e p="UnityMainThreadDispatcher" t="Include">
+          <e p="UnityMainThreadDispatcher.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Firebase-Auth-with-Google-REST-API.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_Firebase-Auth-with-Google-REST-API.2025139944.00" t="ExcludeRecursive" />
+  </component>
+</project>
