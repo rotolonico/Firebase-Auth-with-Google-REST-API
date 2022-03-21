@@ -38,7 +38,6 @@ public static class GoogleAuthenticator
                 {"code", code},
                 {"client_id", ClientId},
                 {"client_secret", ClientSecret},
-                {"client_id", ClientId},
                 {"redirect_uri", RedirectUri},
                 {"grant_type","authorization_code"}
             }
